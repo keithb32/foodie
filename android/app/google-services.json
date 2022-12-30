@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "806644399946",
+    "project_id": "reactnative-kab7em",
+    "storage_bucket": "reactnative-kab7em.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806644399946:android:986e4e0413d1b117d8cbb3",
+        "android_client_info": {
+          "package_name": "com.project_kab7em"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806644399946-cjlfgnmpsava3qk372kelf5hc1a3ijp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806644399946-cjlfgnmpsava3qk372kelf5hc1a3ijp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
